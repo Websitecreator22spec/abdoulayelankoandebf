@@ -8,7 +8,7 @@ export const Route = createRootRoute({
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { title: 'Abdoulaye Lankoandé — Youth Engagement & Public Health Specialist' },
       { name: 'description', content: 'Juriste en DSSR & droits humains / Santé communautaire, changement social et protection des populations vulnérables / Digital Health / système de santé. Portfolio professionnel d\'Abdoulaye Lankoandé.' },
-      { name: 'keywords', content: 'Abdoulaye Lankoandé, santé communautaire, engagement jeunes, SBCC, SSR, DSSR, Burkina Faso' },
+      { name: 'keywords', content: 'Abdoulaye Lankoandé, santé communautaire, engagement jeunes, SBCC, SSR, DSSR, Burkina Faso, Ouagadougou' },
       { property: 'og:title', content: 'Abdoulaye Lankoandé — Youth Engagement & Public Health Specialist' },
       { property: 'og:description', content: 'Juriste en DSSR & droits humains/ Santé communautaire, changement social et protection des populations vulnérables/ digital health/ système de santé.' },
       { property: 'og:type', content: 'website' },
