@@ -459,7 +459,7 @@ export default function Portfolio() {
             <div className="w-16 h-1.5 rounded-full mx-auto mt-4" style={{ background: 'linear-gradient(90deg, #0A66C2, #16A34A)' }} />
           </div>
 
-          <TimelineItem delay={0} icon="🏆" year="2019–2023" color="#0A66C2"
+          <TimelineItem delay={0} icon="🏆" year="2015–2018" color="#0A66C2"
             title="Licence professionnelle en Droit privé, option Droit des Affaires"
             org="Université Libre du Burkina" orgUrl="https://universitelibreduburkina.org/" />
 
