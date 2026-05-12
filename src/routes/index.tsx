@@ -343,7 +343,7 @@ export default function Portfolio() {
           {/* Title */}
           <p className="text-base md:text-lg font-medium text-blue-100/90 max-w-2xl leading-relaxed mb-8 animate-fade-in-up"
             style={{ animationDelay: '0.2s' }}>
-            Spécialiste en engagement des jeunes et amélioration de l'accès aux services
+            Juriste en DSSR & droits humains | Santé communautaire | Changement social | Protection des populations vulnérables | Digital Health | Systèmes de santé
             <span className="text-green-300"> | </span>
             Expérience en santé communautaire & communication sociale
             <span className="text-green-300"> | </span>
