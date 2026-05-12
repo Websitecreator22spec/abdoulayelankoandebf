@@ -143,7 +143,7 @@ function Mindmap() {
     { label: 'Empathie', angle: 80, color: '#16A34A' },
     { label: 'Communication\nSBCC', angle: 120, color: '#22C55E' },
     { label: 'Santé\ncommunautaire', angle: 160, color: '#0A66C2' },
-    { label: 'SSR / PF', angle: 200, color: '#16A34A' },
+    { label: 'DSSR / PF', angle: 200, color: '#16A34A' },
     { label: 'Professionnalisme\n& éthique', angle: 240, color: '#1d4ed8' },
     { label: 'Travail\nen équipe', angle: 280, color: '#0A66C2' },
     { label: 'Gestion\ndu stress', angle: 320, color: '#22C55E' },
